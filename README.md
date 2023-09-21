@@ -10,3 +10,8 @@ There is a reasonably strong negative correlation between max temperature and la
 There is a decently strong positive correlation between max temperature and latitude on the Southern Hemisphere with a correlation coefficient of roughly 0.67.
 
 # Latitude vs. Humidity
+![North_Hemi - Hum vs  LatLinear Regression](https://github.com/faceadversity/python-api-challenge/assets/137361966/bf048b73-f1d3-4388-9fe6-205ff4fb04a0)
+There is a noticeably weak negative correlation between humidity and latitude on the Northern Hemisphere with a correlation coefficient of roughly -0.02.
+![South_Hemi - Hum vs  LatLinear Regression](https://github.com/faceadversity/python-api-challenge/assets/137361966/d2232c51-45bb-4a15-9d29-7f861073288c)
+There is a very slight positive correlation between humidity and latitude on the Southern Hemisphere with a correlation coefficient of roughly 0.14.
+
